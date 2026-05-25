@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nimble.Modulith.Email.Contracts")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac1d9c9a1805e552552f4efe93753f5c0eeff662")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nimble.Modulith.Email.Contracts")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nimble.Modulith.Email.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

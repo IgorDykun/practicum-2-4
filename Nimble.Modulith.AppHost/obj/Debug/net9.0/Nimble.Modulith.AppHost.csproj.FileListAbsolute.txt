@@ -207,3 +207,4 @@ D:\dotnetproj\Nimble.Modulith.AppHost\obj\Debug\net9.0\refint\Nimble.Modulith.Ap
 D:\dotnetproj\Nimble.Modulith.AppHost\obj\Debug\net9.0\Nimble.Modulith.AppHost.pdb
 D:\dotnetproj\Nimble.Modulith.AppHost\obj\Debug\net9.0\Nimble.Modulith.AppHost.genruntimeconfig.cache
 D:\dotnetproj\Nimble.Modulith.AppHost\obj\Debug\net9.0\ref\Nimble.Modulith.AppHost.dll
+D:\dotnetproj\Nimble.Modulith.AppHost\obj\Debug\net9.0\Nimble.Modulith.AppHost.sourcelink.json

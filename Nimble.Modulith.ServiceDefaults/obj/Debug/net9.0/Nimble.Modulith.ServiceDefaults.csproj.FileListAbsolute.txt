@@ -10,3 +10,4 @@ D:\dotnetproj\Nimble.Modulith.ServiceDefaults\obj\Debug\net9.0\Nimble.Modulith.S
 D:\dotnetproj\Nimble.Modulith.ServiceDefaults\obj\Debug\net9.0\refint\Nimble.Modulith.ServiceDefaults.dll
 D:\dotnetproj\Nimble.Modulith.ServiceDefaults\obj\Debug\net9.0\Nimble.Modulith.ServiceDefaults.pdb
 D:\dotnetproj\Nimble.Modulith.ServiceDefaults\obj\Debug\net9.0\ref\Nimble.Modulith.ServiceDefaults.dll
+D:\dotnetproj\Nimble.Modulith.ServiceDefaults\obj\Debug\net9.0\Nimble.Modulith.ServiceDefaults.sourcelink.json

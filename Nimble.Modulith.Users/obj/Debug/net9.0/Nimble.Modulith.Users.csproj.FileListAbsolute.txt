@@ -17,3 +17,4 @@ D:\dotnetproj\Nimble.Modulith.Users\obj\Debug\net9.0\Nimble.Modulith.Users.genru
 D:\dotnetproj\Nimble.Modulith.Users\obj\Debug\net9.0\ref\Nimble.Modulith.Users.dll
 D:\dotnetproj\Nimble.Modulith.Users\bin\Debug\net9.0\Nimble.Modulith.Email.Contracts.dll
 D:\dotnetproj\Nimble.Modulith.Users\bin\Debug\net9.0\Nimble.Modulith.Email.Contracts.pdb
+D:\dotnetproj\Nimble.Modulith.Users\obj\Debug\net9.0\Nimble.Modulith.Users.sourcelink.json

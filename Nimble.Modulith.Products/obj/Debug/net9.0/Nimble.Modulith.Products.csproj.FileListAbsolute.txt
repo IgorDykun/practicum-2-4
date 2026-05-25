@@ -15,3 +15,4 @@ D:\dotnetproj\Nimble.Modulith.Products\obj\Debug\net9.0\refint\Nimble.Modulith.P
 D:\dotnetproj\Nimble.Modulith.Products\obj\Debug\net9.0\Nimble.Modulith.Products.pdb
 D:\dotnetproj\Nimble.Modulith.Products\obj\Debug\net9.0\Nimble.Modulith.Products.genruntimeconfig.cache
 D:\dotnetproj\Nimble.Modulith.Products\obj\Debug\net9.0\ref\Nimble.Modulith.Products.dll
+D:\dotnetproj\Nimble.Modulith.Products\obj\Debug\net9.0\Nimble.Modulith.Products.sourcelink.json

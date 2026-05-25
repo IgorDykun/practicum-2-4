@@ -21,3 +21,4 @@ D:\dotnetproj\Nimble.Modulith.Customers\obj\Debug\net9.0\refint\Nimble.Modulith.
 D:\dotnetproj\Nimble.Modulith.Customers\obj\Debug\net9.0\Nimble.Modulith.Customers.pdb
 D:\dotnetproj\Nimble.Modulith.Customers\obj\Debug\net9.0\Nimble.Modulith.Customers.genruntimeconfig.cache
 D:\dotnetproj\Nimble.Modulith.Customers\obj\Debug\net9.0\ref\Nimble.Modulith.Customers.dll
+D:\dotnetproj\Nimble.Modulith.Customers\obj\Debug\net9.0\Nimble.Modulith.Customers.sourcelink.json

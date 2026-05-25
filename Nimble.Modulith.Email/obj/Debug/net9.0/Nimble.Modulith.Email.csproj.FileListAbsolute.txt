@@ -13,3 +13,4 @@ D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.dll
 D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\refint\Nimble.Modulith.Email.dll
 D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.pdb
 D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\ref\Nimble.Modulith.Email.dll
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.sourcelink.json

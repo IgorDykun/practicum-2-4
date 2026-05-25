@@ -10,3 +10,4 @@ D:\dotnetproj\Nimble.Modulith.Customers.Contracts\obj\Debug\net9.0\Nimble.Moduli
 D:\dotnetproj\Nimble.Modulith.Customers.Contracts\obj\Debug\net9.0\refint\Nimble.Modulith.Customers.Contracts.dll
 D:\dotnetproj\Nimble.Modulith.Customers.Contracts\obj\Debug\net9.0\Nimble.Modulith.Customers.Contracts.pdb
 D:\dotnetproj\Nimble.Modulith.Customers.Contracts\obj\Debug\net9.0\ref\Nimble.Modulith.Customers.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Customers.Contracts\obj\Debug\net9.0\Nimble.Modulith.Customers.Contracts.sourcelink.json

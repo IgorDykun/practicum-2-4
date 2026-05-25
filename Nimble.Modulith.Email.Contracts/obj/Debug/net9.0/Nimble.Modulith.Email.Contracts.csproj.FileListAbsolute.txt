@@ -10,3 +10,4 @@ D:\dotnetproj\Nimble.Modulith.Email.Contracts\obj\Debug\net9.0\Nimble.Modulith.E
 D:\dotnetproj\Nimble.Modulith.Email.Contracts\obj\Debug\net9.0\refint\Nimble.Modulith.Email.Contracts.dll
 D:\dotnetproj\Nimble.Modulith.Email.Contracts\obj\Debug\net9.0\Nimble.Modulith.Email.Contracts.pdb
 D:\dotnetproj\Nimble.Modulith.Email.Contracts\obj\Debug\net9.0\ref\Nimble.Modulith.Email.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Email.Contracts\obj\Debug\net9.0\Nimble.Modulith.Email.Contracts.sourcelink.json

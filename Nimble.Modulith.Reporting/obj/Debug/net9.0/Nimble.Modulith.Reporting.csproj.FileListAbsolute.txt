@@ -13,3 +13,4 @@ D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporti
 D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\refint\Nimble.Modulith.Reporting.dll
 D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.pdb
 D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\ref\Nimble.Modulith.Reporting.dll
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.sourcelink.json
