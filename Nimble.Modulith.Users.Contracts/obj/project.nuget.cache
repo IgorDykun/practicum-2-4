@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "So8WERr+5DM=",
+  "success": true,
+  "projectFilePath": "D:\\dotnetproj\\Nimble.Modulith.Users.Contracts\\Nimble.Modulith.Users.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\ardalis.result\\10.1.0\\ardalis.result.10.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\mediator.abstractions\\3.0.1\\mediator.abstractions.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

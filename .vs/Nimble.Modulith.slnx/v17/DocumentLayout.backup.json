@@ -1,0 +1,1213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\dotnetproj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\usersmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\usersmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|d:\\dotnetproj\\nimble.modulith.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|solutionrelative:nimble.modulith.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|d:\\dotnetproj\\nimble.modulith.web\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|solutionrelative:nimble.modulith.web\\loggingbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|d:\\dotnetproj\\nimble.modulith.web\\nimble.modulith.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|solutionrelative:nimble.modulith.web\\nimble.modulith.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\endpoints\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\endpoints\\forgotpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\nimble.modulith.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\nimble.modulith.users.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\customers\\commands\\create\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\customers\\commands\\create\\createcustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\usecases\\commands\\resetuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\usecases\\commands\\resetuserpasswordhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\usecases\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\usecases\\commands\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9BC4DE-0FA4-D976-E27F-87DE8A6FC8F3}|Nimble.Modulith.Users.Contracts\\Nimble.Modulith.Users.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.users.contracts\\resetuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9BC4DE-0FA4-D976-E27F-87DE8A6FC8F3}|Nimble.Modulith.Users.Contracts\\Nimble.Modulith.Users.Contracts.csproj|solutionrelative:nimble.modulith.users.contracts\\resetuserpasswordcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F9BC4DE-0FA4-D976-E27F-87DE8A6FC8F3}|Nimble.Modulith.Users.Contracts\\Nimble.Modulith.Users.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.users.contracts\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9BC4DE-0FA4-D976-E27F-87DE8A6FC8F3}|Nimble.Modulith.Users.Contracts\\Nimble.Modulith.Users.Contracts.csproj|solutionrelative:nimble.modulith.users.contracts\\createusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\endpoints\\orders\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\endpoints\\orders\\confirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\endpoints\\orders\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\endpoints\\orders\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF91335-BBB4-2DCB-5150-E7C8E1022DAE}|Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.customers.contracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF91335-BBB4-2DCB-5150-E7C8E1022DAE}|Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj|solutionrelative:nimble.modulith.customers.contracts\\ordercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\commands\\confirmorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\commands\\confirmorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\commands\\confirmordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\commands\\confirmordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\commands\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\commands\\createorderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\commands\\createordercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\orderaggregate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\orderaggregate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\queries\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\queries\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\usecases\\queries\\getproductdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\usecases\\queries\\getproductdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\usecases\\queries\\getproductpricequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\usecases\\queries\\getproductpricequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\endpoints\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\endpoints\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\endpoints\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\endpoints\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\endpoints\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\endpoints\\getbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\endpoints\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\endpoints\\delete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\data\\productsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\data\\productsdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\data\\productsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF91335-BBB4-2DCB-5150-E7C8E1022DAE}|Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.customers.contracts\\nimble.modulith.customers.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACF91335-BBB4-2DCB-5150-E7C8E1022DAE}|Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj|solutionrelative:nimble.modulith.customers.contracts\\nimble.modulith.customers.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.products.contracts\\getproductdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|solutionrelative:nimble.modulith.products.contracts\\getproductdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.products.contracts\\getproductpricequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|solutionrelative:nimble.modulith.products.contracts\\getproductpricequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.products.contracts\\nimble.modulith.products.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{99E49B03-6E68-2A4E-12BC-F6051FD07397}|Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj|solutionrelative:nimble.modulith.products.contracts\\nimble.modulith.products.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\customersmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\customersmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\nimble.modulith.customers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\nimble.modulith.customers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\emailmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\emailmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59BC9B38-147B-F98F-7064-8B012D5CEDA4}|__SolutionItems{59BC9B38-147B-F98F-7064-8B012D5CEDA4}|D:\\dotnetproj\\Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{59BC9B38-147B-F98F-7064-8B012D5CEDA4}|__SolutionItems{59BC9B38-147B-F98F-7064-8B012D5CEDA4}|solutionrelative:Directory.Packages.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.email.contracts\\nimble.modulith.email.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|solutionrelative:nimble.modulith.email.contracts\\nimble.modulith.email.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\nimble.modulith.email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\nimble.modulith.email.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\nimble.modulith.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\nimble.modulith.products.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\customeraggregate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\customeraggregate\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DA700FA-2DB4-8649-17E8-8F6C68DDC934}|Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj|d:\\dotnetproj\\nimble.modulith.servicedefaults\\nimble.modulith.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DA700FA-2DB4-8649-17E8-8F6C68DDC934}|Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj|solutionrelative:nimble.modulith.servicedefaults\\nimble.modulith.servicedefaults.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DB9839-E951-04F3-6F3D-C993D048A6A1}|Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj|d:\\dotnetproj\\nimble.modulith.apphost\\nimble.modulith.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4DB9839-E951-04F3-6F3D-C993D048A6A1}|Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj|solutionrelative:nimble.modulith.apphost\\nimble.modulith.apphost.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\handlers\\sendemailoncustomercreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\handlers\\sendemailoncustomercreatedhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\infrastructure\\sendemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\infrastructure\\sendemailhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.email.contracts\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|solutionrelative:nimble.modulith.email.contracts\\sendemailcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DB9839-E951-04F3-6F3D-C993D048A6A1}|Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj|d:\\dotnetproj\\nimble.modulith.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DB9839-E951-04F3-6F3D-C993D048A6A1}|Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj|solutionrelative:nimble.modulith.apphost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\orderaggregate\\specifications\\ordersbycustomerspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\orderaggregate\\specifications\\ordersbycustomerspec.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\orders\\queries\\getordersbycustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\orders\\queries\\getordersbycustomerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\endpoints\\orders\\listbycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\endpoints\\orders\\listbycustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\endpoints\\customers\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\endpoints\\customers\\create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|d:\\dotnetproj\\nimble.modulith.email.contracts\\events\\customercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49CABBCA-57A3-3233-C718-D07541A865C7}|Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj|solutionrelative:nimble.modulith.email.contracts\\events\\customercreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\usecases\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\usecases\\customers\\commands\\create\\createcustomercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\infrastructure\\emailbackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\infrastructure\\emailbackgroundworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\smtpemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\infrastructure\\channelqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\infrastructure\\channelqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|d:\\dotnetproj\\nimble.modulith.products\\productsmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB27E77F-B2C9-C76B-349F-1A93F98C61BE}|Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj|solutionrelative:nimble.modulith.products\\productsmoduleextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|d:\\dotnetproj\\nimble.modulith.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|solutionrelative:nimble.modulith.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|d:\\dotnetproj\\nimble.modulith.email\\data\\emailauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8341D2-2958-27E7-4BDD-DAE647D1FF59}|Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj|solutionrelative:nimble.modulith.email\\data\\emailauditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\infrastructure\\data\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\domain\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\domain\\interfaces\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\infrastructure\\data\\config\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\infrastructure\\data\\config\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|d:\\dotnetproj\\nimble.modulith.customers\\infrastructure\\data\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{883FAAA5-3F3F-14E5-9D93-FA8FB0F5FB09}|Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj|solutionrelative:nimble.modulith.customers\\infrastructure\\data\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\endpoints\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\endpoints\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\endpoints\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\endpoints\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\endpoints\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\endpoints\\logout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|d:\\dotnetproj\\nimble.modulith.users\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E2474C0-F8DE-F733-93C8-B495F8F9E916}|Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj|solutionrelative:nimble.modulith.users\\data\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|d:\\dotnetproj\\nimble.modulith.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD382415-5DB1-F588-0281-4FB4664EAFB5}|Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj|solutionrelative:nimble.modulith.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:200:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:239:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ForgotPassword.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\ForgotPassword.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Endpoints\\ForgotPassword.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\ForgotPassword.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Endpoints\\ForgotPassword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:35:25.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Web\\Program.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Web\\Program.cs",
+              "RelativeToolTip": "Nimble.Modulith.Web\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwCoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:12:31.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersModuleExtensions.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\UsersModuleExtensions.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\UsersModuleExtensions.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\UsersModuleExtensions.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\UsersModuleExtensions.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:04:06.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nimble.Modulith.Users.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Nimble.Modulith.Users.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T09:02:30.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoggingBehavior.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Web\\LoggingBehavior.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Web\\LoggingBehavior.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Web\\LoggingBehavior.cs",
+              "RelativeToolTip": "Nimble.Modulith.Web\\LoggingBehavior.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:56:27.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResetUserPasswordHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\UseCases\\Commands\\ResetUserPasswordHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\UseCases\\Commands\\ResetUserPasswordHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\UseCases\\Commands\\ResetUserPasswordHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\UseCases\\Commands\\ResetUserPasswordHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:31:13.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Nimble.Modulith.Web.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Web\\Nimble.Modulith.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-22T14:59:16.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUserHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\UseCases\\Commands\\CreateUserHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\UseCases\\Commands\\CreateUserHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\UseCases\\Commands\\CreateUserHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\UseCases\\Commands\\CreateUserHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:30:35.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetUserPasswordCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users.Contracts\\ResetUserPasswordCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users.Contracts\\ResetUserPasswordCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users.Contracts\\ResetUserPasswordCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users.Contracts\\ResetUserPasswordCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:29:48.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateUserCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users.Contracts\\CreateUserCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users.Contracts\\CreateUserCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users.Contracts\\CreateUserCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users.Contracts\\CreateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T08:29:25.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCustomerHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerHandler.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:53:46.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateOrderHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:22:34.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfirmOrderHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:25:40.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfirmOrderCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\ConfirmOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:25:08.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreatedEvent.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers.Contracts\\OrderCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers.Contracts\\OrderCreatedEvent.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers.Contracts\\OrderCreatedEvent.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers.Contracts\\OrderCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:24:21.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Confirm.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\Confirm.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Endpoints\\Orders\\Confirm.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\Confirm.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Endpoints\\Orders\\Confirm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:26:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\Create.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Endpoints\\Orders\\Create.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\Create.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Endpoints\\Orders\\Create.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvwgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:23:29.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateOrderCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Commands\\CreateOrderCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:21:23.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\OrderItem.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\OrderItem.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:57:14.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Order.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Order.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Order.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Order.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:56:10.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\OrderDto.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\OrderDto.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:06:03.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetProductDetailsQueryHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\UseCases\\Queries\\GetProductDetailsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\UseCases\\Queries\\GetProductDetailsQueryHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\UseCases\\Queries\\GetProductDetailsQueryHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\UseCases\\Queries\\GetProductDetailsQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:19:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetProductPriceQueryHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\UseCases\\Queries\\GetProductPriceQueryHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\UseCases\\Queries\\GetProductPriceQueryHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\UseCases\\Queries\\GetProductPriceQueryHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\UseCases\\Queries\\GetProductPriceQueryHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:19:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\Update.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Endpoints\\Update.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\Update.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Endpoints\\Update.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwDwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:43:50.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\List.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Endpoints\\List.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\List.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Endpoints\\List.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwCsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:43:08.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetById.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\GetById.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Endpoints\\GetById.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\GetById.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Endpoints\\GetById.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAcwDMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:43:28.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Delete.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\Delete.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Endpoints\\Delete.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Endpoints\\Delete.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Endpoints\\Delete.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:44:09.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductsDbContextFactory.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Data\\ProductsDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Data\\ProductsDbContextFactory.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Data\\ProductsDbContextFactory.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Data\\ProductsDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:38:29.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsDbContext.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Data\\ProductsDbContext.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Data\\ProductsDbContext.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Data\\ProductsDbContext.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Data\\ProductsDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAewAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:20:02.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Models\\Product.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Models\\Product.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:22:54.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Nimble.Modulith.Customers.Contracts.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Customers.Contracts\\Nimble.Modulith.Customers.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T18:10:11.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetProductDetailsQuery.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\GetProductDetailsQuery.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products.Contracts\\GetProductDetailsQuery.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\GetProductDetailsQuery.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products.Contracts\\GetProductDetailsQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:17:48.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GetProductPriceQuery.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\GetProductPriceQuery.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products.Contracts\\GetProductPriceQuery.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\GetProductPriceQuery.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products.Contracts\\GetProductPriceQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T15:17:16.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EmailModuleExtensions.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailModuleExtensions.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\EmailModuleExtensions.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailModuleExtensions.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\EmailModuleExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:41:44.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Nimble.Modulith.Customers.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Nimble.Modulith.Customers.csproj",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T14:40:31.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CustomersModuleExtensions.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\CustomersModuleExtensions.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\CustomersModuleExtensions.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\CustomersModuleExtensions.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\CustomersModuleExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:45:38.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Nimble.Modulith.Products.Contracts.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Products.Contracts\\Nimble.Modulith.Products.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T18:09:42.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Directory.Packages.props",
+              "DocumentMoniker": "D:\\dotnetproj\\Directory.Packages.props",
+              "RelativeDocumentMoniker": "Directory.Packages.props",
+              "ToolTip": "D:\\dotnetproj\\Directory.Packages.props",
+              "RelativeToolTip": "Directory.Packages.props",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowCAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-04-13T09:20:45.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Nimble.Modulith.Email.Contracts.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T17:28:39.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Nimble.Modulith.Email.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-27T17:28:53.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Nimble.Modulith.Products.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj",
+              "RelativeToolTip": "Nimble.Modulith.Products\\Nimble.Modulith.Products.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T09:54:21.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\CustomerAggregate\\Customer.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\CustomerAggregate\\Customer.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\CustomerAggregate\\Customer.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\CustomerAggregate\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:43:22.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Nimble.Modulith.AppHost.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj",
+              "RelativeToolTip": "Nimble.Modulith.AppHost\\Nimble.Modulith.AppHost.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T08:57:23.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SendEmailOnCustomerCreatedHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Handlers\\SendEmailOnCustomerCreatedHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Handlers\\SendEmailOnCustomerCreatedHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Handlers\\SendEmailOnCustomerCreatedHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Handlers\\SendEmailOnCustomerCreatedHandler.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA8wBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:12:33.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Nimble.Modulith.ServiceDefaults.csproj",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj",
+              "RelativeDocumentMoniker": "Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj",
+              "RelativeToolTip": "Nimble.Modulith.ServiceDefaults\\Nimble.Modulith.ServiceDefaults.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T08:57:41.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "SendEmailHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\SendEmailHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Infrastructure\\SendEmailHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\SendEmailHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Infrastructure\\SendEmailHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T18:19:58.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "SendEmailCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\SendEmailCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email.Contracts\\SendEmailCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\SendEmailCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email.Contracts\\SendEmailCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:42:14.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrdersByCustomerSpec.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Specifications\\OrdersByCustomerSpec.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Specifications\\OrdersByCustomerSpec.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Specifications\\OrdersByCustomerSpec.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\OrderAggregate\\Specifications\\OrdersByCustomerSpec.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:55:18.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetOrdersByCustomerHandler.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\GetOrdersByCustomerHandler.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\GetOrdersByCustomerHandler.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\GetOrdersByCustomerHandler.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Orders\\Queries\\GetOrdersByCustomerHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:07:03.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ListByCustomer.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\ListByCustomer.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Endpoints\\Orders\\ListByCustomer.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Orders\\ListByCustomer.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Endpoints\\Orders\\ListByCustomer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:02:00.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.AppHost\\Program.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.AppHost\\Program.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.AppHost\\Program.cs",
+              "RelativeToolTip": "Nimble.Modulith.AppHost\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:01:56.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\Common\\EntityBase.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\Common\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:42:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Customers\\Create.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Endpoints\\Customers\\Create.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Endpoints\\Customers\\Create.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Endpoints\\Customers\\Create.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAmwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:00:03.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CustomerCreatedEvent.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Events\\CustomerCreatedEvent.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email.Contracts\\Events\\CustomerCreatedEvent.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Events\\CustomerCreatedEvent.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email.Contracts\\Events\\CustomerCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T19:10:20.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CreateCustomerCommand.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\UseCases\\Customers\\Commands\\Create\\CreateCustomerCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:53:22.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EmailBackgroundWorker.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\EmailBackgroundWorker.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Infrastructure\\EmailBackgroundWorker.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\EmailBackgroundWorker.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Infrastructure\\EmailBackgroundWorker.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA+wBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:41:05.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\EmailMessage.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailMessage.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\EmailMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:33:47.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\EmailSettings.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\EmailSettings.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:34:13.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\IEmailSender.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\IEmailSender.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:33:23.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "SmtpEmailSender.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\SmtpEmailSender.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\SmtpEmailSender.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\SmtpEmailSender.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\SmtpEmailSender.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:30:50.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ChannelQueueService.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\ChannelQueueService.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Infrastructure\\ChannelQueueService.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Infrastructure\\ChannelQueueService.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Infrastructure\\ChannelQueueService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:40:37.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductsModuleExtensions.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Products\\ProductsModuleExtensions.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Products\\ProductsModuleExtensions.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Products\\ProductsModuleExtensions.cs",
+              "RelativeToolTip": "Nimble.Modulith.Products\\ProductsModuleExtensions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:20:34.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Web\\appsettings.json",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Web\\appsettings.json",
+              "RelativeToolTip": "Nimble.Modulith.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-27T17:44:15.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EmailAuditLog.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Email\\Data\\EmailAuditLog.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Email\\Data\\EmailAuditLog.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Email\\Data\\EmailAuditLog.cs",
+              "RelativeToolTip": "Nimble.Modulith.Email\\Data\\EmailAuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T17:29:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EfRepository.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\EfRepository.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Infrastructure\\Data\\EfRepository.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\EfRepository.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Infrastructure\\Data\\EfRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:52:25.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:51:54.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Interfaces\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Domain\\Interfaces\\IReadRepository.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Domain\\Interfaces\\IReadRepository.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Domain\\Interfaces\\IReadRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T16:51:30.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\Config\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Infrastructure\\Data\\Config\\CustomerConfiguration.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\Config\\CustomerConfiguration.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Infrastructure\\Data\\Config\\CustomerConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:45:12.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CustomersDbContext.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\CustomersDbContext.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Customers\\Infrastructure\\Data\\CustomersDbContext.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Customers\\Infrastructure\\Data\\CustomersDbContext.cs",
+              "RelativeToolTip": "Nimble.Modulith.Customers\\Infrastructure\\Data\\CustomersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T14:44:32.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Logout.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Logout.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Endpoints\\Logout.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Logout.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Endpoints\\Logout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:07:10.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Login.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Endpoints\\Login.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Login.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Endpoints\\Login.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:06:58.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "Register.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Register.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Endpoints\\Register.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Endpoints\\Register.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Endpoints\\Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:06:45.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UsersDbContext.cs",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Users\\Data\\UsersDbContext.cs",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Users\\Data\\UsersDbContext.cs",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Users\\Data\\UsersDbContext.cs",
+              "RelativeToolTip": "Nimble.Modulith.Users\\Data\\UsersDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T09:02:56.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\dotnetproj\\Nimble.Modulith.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Nimble.Modulith.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\dotnetproj\\Nimble.Modulith.Web\\appsettings.Development.json",
+              "RelativeToolTip": "Nimble.Modulith.Web\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T09:09:31.308Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

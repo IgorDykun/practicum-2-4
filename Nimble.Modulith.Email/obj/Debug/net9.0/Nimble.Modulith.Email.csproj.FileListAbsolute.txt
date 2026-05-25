@@ -1,0 +1,15 @@
+D:\dotnetproj\Nimble.Modulith.Email\bin\Debug\net9.0\Nimble.Modulith.Email.deps.json
+D:\dotnetproj\Nimble.Modulith.Email\bin\Debug\net9.0\Nimble.Modulith.Email.dll
+D:\dotnetproj\Nimble.Modulith.Email\bin\Debug\net9.0\Nimble.Modulith.Email.pdb
+D:\dotnetproj\Nimble.Modulith.Email\bin\Debug\net9.0\Nimble.Modulith.Email.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Email\bin\Debug\net9.0\Nimble.Modulith.Email.Contracts.pdb
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.csproj.AssemblyReference.cache
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.AssemblyInfoInputs.cache
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.AssemblyInfo.cs
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.csproj.CoreCompileInputs.cache
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.M.9B85ABEB.Up2Date
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.dll
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\refint\Nimble.Modulith.Email.dll
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\Nimble.Modulith.Email.pdb
+D:\dotnetproj\Nimble.Modulith.Email\obj\Debug\net9.0\ref\Nimble.Modulith.Email.dll

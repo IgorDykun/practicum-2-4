@@ -1,0 +1,12 @@
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\bin\Debug\net9.0\Nimble.Modulith.Products.Contracts.deps.json
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\bin\Debug\net9.0\Nimble.Modulith.Products.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\bin\Debug\net9.0\Nimble.Modulith.Products.Contracts.pdb
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.csproj.AssemblyReference.cache
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.AssemblyInfoInputs.cache
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.AssemblyInfo.cs
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.csproj.CoreCompileInputs.cache
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\refint\Nimble.Modulith.Products.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\Nimble.Modulith.Products.Contracts.pdb
+D:\dotnetproj\Nimble.Modulith.Products.Contracts\obj\Debug\net9.0\ref\Nimble.Modulith.Products.Contracts.dll

@@ -1,0 +1,15 @@
+D:\dotnetproj\Nimble.Modulith.Reporting\bin\Debug\net9.0\Nimble.Modulith.Reporting.deps.json
+D:\dotnetproj\Nimble.Modulith.Reporting\bin\Debug\net9.0\Nimble.Modulith.Reporting.dll
+D:\dotnetproj\Nimble.Modulith.Reporting\bin\Debug\net9.0\Nimble.Modulith.Reporting.pdb
+D:\dotnetproj\Nimble.Modulith.Reporting\bin\Debug\net9.0\Nimble.Modulith.Customers.Contracts.dll
+D:\dotnetproj\Nimble.Modulith.Reporting\bin\Debug\net9.0\Nimble.Modulith.Customers.Contracts.pdb
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.csproj.AssemblyReference.cache
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.AssemblyInfoInputs.cache
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.AssemblyInfo.cs
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.csproj.CoreCompileInputs.cache
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.M.329C30F6.Up2Date
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.dll
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\refint\Nimble.Modulith.Reporting.dll
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\Nimble.Modulith.Reporting.pdb
+D:\dotnetproj\Nimble.Modulith.Reporting\obj\Debug\net9.0\ref\Nimble.Modulith.Reporting.dll

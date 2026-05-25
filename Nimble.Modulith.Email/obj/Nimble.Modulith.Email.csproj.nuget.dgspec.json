@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj": {}
+  },
+  "projects": {
+    "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+        "projectName": "Nimble.Modulith.Email.Contracts",
+        "projectPath": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Mediator.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.1, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Ardalis.Result": "10.1.0",
+            "Ardalis.Result.AspNetCore": "10.1.0",
+            "Ardalis.Specification": "8.0.0",
+            "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "Aspire.Hosting.AppHost": "13.2.2",
+            "Aspire.Hosting.SqlServer": "13.2.2",
+            "Aspire.Microsoft.EntityFrameworkCore.SqlServer": "13.2.2",
+            "Dapper": "2.1.79",
+            "FastEndpoints": "8.1.0",
+            "FastEndpoints.Security": "8.1.0",
+            "FastEndpoints.Swagger": "8.1.0",
+            "MailKit": "4.14.0",
+            "Mediator.Abstractions": "3.0.1",
+            "Mediator.SourceGenerator": "3.0.1",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.14",
+            "Microsoft.AspNetCore.OpenApi": "9.0.11",
+            "Microsoft.EntityFrameworkCore": "9.0.14",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.14",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.14",
+            "Microsoft.Extensions.Hosting": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Http.Resilience": "8.10.0",
+            "Microsoft.Extensions.ServiceDiscovery": "8.2.2",
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.9.0",
+            "OpenTelemetry.Extensions.Hosting": "1.9.0",
+            "OpenTelemetry.Instrumentation.AspNetCore": "1.9.0",
+            "OpenTelemetry.Instrumentation.Http": "1.9.0",
+            "OpenTelemetry.Instrumentation.Runtime": "1.9.0",
+            "Serilog.AspNetCore": "9.0.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+        "projectName": "Nimble.Modulith.Email",
+        "projectPath": "D:\\dotnetproj\\Nimble.Modulith.Email\\Nimble.Modulith.Email.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\dotnetproj\\Nimble.Modulith.Email\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "fallbackFolders": [
+          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj": {
+                "projectPath": "D:\\dotnetproj\\Nimble.Modulith.Email.Contracts\\Nimble.Modulith.Email.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.14.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Mediator.Abstractions": {
+              "target": "Package",
+              "version": "[3.0.1, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[9.0.0, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "Ardalis.Result": "10.1.0",
+            "Ardalis.Result.AspNetCore": "10.1.0",
+            "Ardalis.Specification": "8.0.0",
+            "Ardalis.Specification.EntityFrameworkCore": "8.0.0",
+            "Aspire.Hosting.AppHost": "13.2.2",
+            "Aspire.Hosting.SqlServer": "13.2.2",
+            "Aspire.Microsoft.EntityFrameworkCore.SqlServer": "13.2.2",
+            "Dapper": "2.1.79",
+            "FastEndpoints": "8.1.0",
+            "FastEndpoints.Security": "8.1.0",
+            "FastEndpoints.Swagger": "8.1.0",
+            "MailKit": "4.14.0",
+            "Mediator.Abstractions": "3.0.1",
+            "Mediator.SourceGenerator": "3.0.1",
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.14",
+            "Microsoft.AspNetCore.OpenApi": "9.0.11",
+            "Microsoft.EntityFrameworkCore": "9.0.14",
+            "Microsoft.EntityFrameworkCore.Design": "9.0.14",
+            "Microsoft.EntityFrameworkCore.SqlServer": "9.0.14",
+            "Microsoft.Extensions.Hosting": "9.0.0",
+            "Microsoft.Extensions.Http": "9.0.0",
+            "Microsoft.Extensions.Http.Resilience": "8.10.0",
+            "Microsoft.Extensions.ServiceDiscovery": "8.2.2",
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": "1.9.0",
+            "OpenTelemetry.Extensions.Hosting": "1.9.0",
+            "OpenTelemetry.Instrumentation.AspNetCore": "1.9.0",
+            "OpenTelemetry.Instrumentation.Http": "1.9.0",
+            "OpenTelemetry.Instrumentation.Runtime": "1.9.0",
+            "Serilog.AspNetCore": "9.0.0"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
