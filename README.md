@@ -79,7 +79,7 @@
 
 ##  Структура рішення (Solution Tree)
 
-
+```text
 ├── Nimble.Modulith.slnx                 # Файл рішення нового XML-формату .NET
 ├── Directory.Build.props               # Спільні правила компіляції та попереджень
 ├── Directory.Packages.props            # Централізоване керування версіями NuGet пакетів (CPM)
@@ -96,6 +96,7 @@
 ├── Nimble.Modulith.Customers.Contracts/# Публічні контракти та події (OrderCreatedEvent)
 │
 └── Nimble.Modulith.Reporting/          # Аналітичний модуль (Зіркова схема, EF Core + Dapper, CSV-експорт)
+```
 
 ## Інструкція із запуску системи
 
